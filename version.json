@@ -1,0 +1,9 @@
+{
+  "version": "1.0.1",
+  "changelog": [
+    "Fixed revive bug",
+    "Added end teleport feature",
+    "Improved scoreboard updates"
+  ],
+  "download_url": "test"
+}
